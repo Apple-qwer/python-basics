@@ -1,4 +1,6 @@
-Q2. In the given sentence, cut the string between 'b' and 'd', then show the result. In each sentence, there is only one 'b' and 'd'. 
+Q2. In the given sentence, cut the string between 'b' and 'd', then show the result.
+    In each sentence, there is only one 'b' and 'd'. 
+        
         b = s.index('b')
         d = s.index('d')
         words = s[b:d+1]
