@@ -1,3 +1,4 @@
+#Q2. Slice the the string from b to d. 
 s = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaapiwwwocnnnaioapuapoiuaopiuaodaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 
 
