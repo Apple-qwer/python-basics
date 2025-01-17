@@ -1,0 +1,15 @@
+[1,2,3,4,5,6,7,8]
+def Permut(nums):
+    count = 0
+    res = []
+    for i in range(len(nums)):
+        for j in range(len(nums)): 
+            if i != j and j < 7:  
+                res.append((nums[i], nums[j]))
+        if i == 7:
+            return res
+    return res
+
+# Example usage:
+nums = [1,2,3,4,5,6,7,8]
+print(Permut(nums))

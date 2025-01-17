@@ -1,0 +1,2 @@
+G_after_modifying = [' '.join( ( splited_name[0], splited_name[-1] )) if len(splited_name) != 2 else idx for idx in G]
+print(G_after_modifying)
